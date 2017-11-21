@@ -21,6 +21,10 @@ h1 {
   font-size: 4rem;
 }
 
+h2 {
+    color: #FF0000;
+}
+
 .tagline-upper {
   font-size: 5rem;
   font-weight: 700;
